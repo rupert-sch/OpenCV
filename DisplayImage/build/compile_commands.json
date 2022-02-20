@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rupert/Software/OpenCV/DisplayImage/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/rupert/Software/OpenCV/DisplayImage/DisplayImage.cpp",
+  "file": "/home/rupert/Software/OpenCV/DisplayImage/DisplayImage.cpp"
+}
+]
