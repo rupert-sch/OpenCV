@@ -3,7 +3,7 @@
 # espcam-Bilder vom Wärmezähler auswerten
 #
  
-for f in `ls //media/ras3/pi/esp-cam/pic_1645354*.jpg`
+for f in `ls ../assets/pic_*.jpg`
 do
    ls -l $f 
   
