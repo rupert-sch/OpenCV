@@ -25,13 +25,25 @@ sudo apt-get install tesseract-ocr tesseract-ocr-deu
 cd ~/Software/OpenCV/detecting-and-ocring-digits
 python ocr_digits.py --image apple_support.png
 ```
+## display_ocr
+https://github.com/arturaugusto/display_ocr
+
+Nice programm to change OCR parameters and see the effect immediately. (Slider for "Filter" not used in code ...)
+
+Copied `letsgodigital.traineddata` to `/usr/share/tesseract-ocr/4.00/tessdata/` for global use.
+
+Added some image manipulation functions. 
+Needs fine tuned parameters to recognize my LCD photo!
+Screenshot: ![display_ocr](/assets/Bildschirmfoto_2022-02-20_17-58-26.png)
+
+
 ## gImageReader
 https://wiki.ubuntuusers.de/gImageReader/
 
 Screenshot: ![gImageReader](/assets/Bildschirmfoto_2022-02-20_16-49-37.png)
 Working pretty well when cropping the right section manually :-)
 
-## display_ocr
-https://github.com/arturaugusto/display_ocr
+## tesseract
+See shell script (/test1/espcam_ocr.sh), reading all pic*.jpg from (/assets).
 
-Nice to change parameters and see the effect immediately. 
+As well as the pictures seem to be pretty comparable, the resuls are heavily different...
