@@ -29,3 +29,9 @@ python ocr_digits.py --image apple_support.png
 https://wiki.ubuntuusers.de/gImageReader/
 
 Screenshot: ![gImageReader](/assets/Bildschirmfoto_2022-02-20_16-49-37.png)
+Working pretty well when cropping the right section manually :-)
+
+## display_ocr
+https://github.com/arturaugusto/display_ocr
+
+Nice to change parameters and see the effect immediately. 
