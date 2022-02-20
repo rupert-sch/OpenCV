@@ -34,16 +34,16 @@ Copied `letsgodigital.traineddata` to `/usr/share/tesseract-ocr/4.00/tessdata/` 
 
 Added some image manipulation functions. 
 Needs fine tuned parameters to recognize my LCD photo!
-Screenshot: ![display_ocr](/assets/Bildschirmfoto_2022-02-20_17-58-26.png)
+Screenshot: ![display_ocr](assets/Bildschirmfoto_2022-02-20_17-58-26.png)
 
 
 ## gImageReader
 https://wiki.ubuntuusers.de/gImageReader/
 
-Screenshot: ![gImageReader](/assets/Bildschirmfoto_2022-02-20_16-49-37.png)
+Screenshot: ![gImageReader](assets/Bildschirmfoto_2022-02-20_16-49-37.png)
 Working pretty well when cropping the right section manually :-)
 
 ## tesseract
-See shell script (/test1/espcam_ocr.sh), reading all pic*.jpg from (/assets).
+See shell script [test1/espcam_ocr.sh](test1/espcam_ocr.sh), reading all pic*.jpg from [assets](assets).
 
-As well as the pictures seem to be pretty comparable, the resuls are heavily different...
+As well as the pictures seem to be pretty comparable, the results are heavily different...
